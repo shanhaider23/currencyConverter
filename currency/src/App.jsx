@@ -74,7 +74,11 @@ function App() {
             </button>
           </form>
         </div>
+       
       </div>
+      <div>
+          <h2 className='text-white text-2xl'>Developed by: Haider</h2>
+        </div>
     </div>
   );
 }
